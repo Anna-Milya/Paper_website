@@ -330,8 +330,15 @@ span {
 }
 
 @media (max-width: 360px) {
-   title {
+   .title {
       font-size: 50px;
    }
 
+   .nav {
+      display: none;
+   }
+
+   .footer-info {
+      font-size: 11px;
+   }
 }
