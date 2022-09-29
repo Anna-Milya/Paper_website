@@ -3,6 +3,7 @@ body {
    color: #fff;
    font-family: "Playfair Display", sans-serif;
    font-weight: 400;
+   background-color: #000;
 }
 
 
@@ -145,7 +146,7 @@ body {
 }
 
 /* section five */
-.section_five {
+.section-five {
    background: url("../img/Section-five-bg.jpg") no-repeat center / cover;
 }
 
