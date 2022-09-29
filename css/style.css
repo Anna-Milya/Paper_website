@@ -77,7 +77,7 @@ body {
    height: 800px;
 }
 
-.section_one {
+.section-one {
    background: url("../img/Section-one-bg.jpg") no-repeat center / cover;
 }
 
@@ -122,14 +122,14 @@ body {
 
 /* section two ============================= */
 
-.section_two {
-   background: url("/img/Section-two-bg.jpg") no-repeat center / cover;
+.section-two {
+   background: url("../img/Section-two-bg.jpg") no-repeat center / cover;
 }
 
 
 /* section-three ============================= */
 
-.section_three {
+.section-three {
    background: url("../img/Section-three-bg.jpg") no-repeat center / cover;
 }
 
@@ -140,7 +140,7 @@ body {
 
 /* section-four ============================= */
 
-.section_four {
+.section-four {
    background: url("../img/Section-four-bg.jpg") no-repeat center / cover;
 }
 
@@ -150,7 +150,7 @@ body {
 }
 
 /* section six ============================= */
-.section_six {
+.section-six {
    height: 435px;
    background: #000;
 }
