@@ -5,7 +5,7 @@
 - adaptive design (no mobile or any other layouts were included initially);
 - validation using Markup Validation Service W3C;
 - tested for Chrome, Mozilla, Opera browsers;
-- burger menu in work;
+- burger menu added using HTML/CSS/JS;
 
 
 
