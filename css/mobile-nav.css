@@ -13,10 +13,18 @@
    align-items: center;
 }
 
+
+
 .mobile-nav__item {
    font-size: 35px;
    line-height: 1.15;
    color: #fff;
+}
+
+.mobile-nav__item:hover {
+   color: #666;
+   opacity: 0.9;
+   transition-duration: 0.2s;
 }
 
 .mobile-nav.active {

@@ -53,12 +53,12 @@ body {
    font-size: 22px;
    line-height: 1.15;
    color: #fff;
-   opacity: 0.9;
-   transition-duration: 0.2s;
 }
 
 .nav__item:hover {
    color: #666;
+   opacity: 0.9;
+   transition-duration: 0.2s;
 }
 
 
@@ -246,17 +246,13 @@ span {
    }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
    .title {
       font-size: 85px;
    }
 
    .nav {
       display: none;
-   }
-
-   .mobile-nav-button {
-      display: block;
    }
 
    .footer-info {
