@@ -20,7 +20,7 @@
    position: relative;
    width: 40px;
    height: 5px;
-   background-color: rgba(0, 0, 0, 0.9);
+   background-color: #fff
 }
 
 .mobile-nav-button__icon::after,
@@ -30,7 +30,7 @@
    width: 40px;
    height: 5px;
    display: block;
-   background-color: rgba(0, 0, 0, 0.9);
+   background-color: #fff;
    /* transformation while closing */
    transition: transform 0.15s ease-in, top 0.15s ease-in 0.15s;
 }
