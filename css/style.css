@@ -255,6 +255,10 @@ span {
       display: none;
    }
 
+   .mobile-nav-button {
+      display: block;
+   }
+
    .footer-info {
       flex-wrap: wrap;
       flex-direction: column;
@@ -280,10 +284,6 @@ span {
 @media (max-width: 540px) {
    .title-end {
       font-size: 38px;
-   }
-
-   .footer-info__text {
-      text-align: center;
    }
 }
 
@@ -322,10 +322,6 @@ span {
 
    .footer-info {
       font-size: 11px;
-   }
-
-   .footer-info__text {
-      text-align: center;
    }
 }
 
