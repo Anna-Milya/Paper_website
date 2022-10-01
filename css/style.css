@@ -6,12 +6,9 @@ body {
    background-color: #000;
 }
 
-
 .wrapper {
    overflow: hidden;
 }
-
-
 
 .container {
    width: 100%;
@@ -106,7 +103,7 @@ body {
    padding: 10px 33px;
    font-family: 'Lato';
    font-size: 12px;
-   line-height: 200%;
+   line-height: 2;
    text-align: center;
    letter-spacing: 0.5px;
    color: inherit;
@@ -123,13 +120,11 @@ body {
    transition: background 0.2s linear;
 }
 
-
 /* section two ============================= */
 
 .section-two {
    background: url("../img/Section-two-bg.jpg") no-repeat center / cover;
 }
-
 
 /* section-three ============================= */
 
@@ -140,7 +135,6 @@ body {
 .section__title_modified {
    padding-top: 196px;
 }
-
 
 /* section-four ============================= */
 
@@ -163,12 +157,12 @@ body {
    padding-top: 120px;
    margin-bottom: 5px;
    font-size: 50px;
-   line-height: 140%;
+   line-height: 1.4;
 }
 
 .subtitle-end {
    font-size: 23px;
-   line-height: 165%;
+   line-height: 1.65;
 }
 
 
@@ -211,7 +205,7 @@ body {
 }
 
 .footer-info__text {
-   line-height: 160%;
+   line-height: 1.6;
 }
 
 span {
@@ -227,7 +221,7 @@ span {
 
 .footer_link {
    color: inherit;
-   line-height: 215%;
+   line-height: 2.15;
    text-align: right;
 }
 
