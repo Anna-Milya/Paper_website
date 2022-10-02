@@ -117,7 +117,7 @@ body {
 
 .view-link:hover {
    background: rgba(182, 182, 182, 0.3);
-   transition: background 0.2s linear;
+   transition: background 0.3s ease-in;
 }
 
 /* section two ============================= */
@@ -178,6 +178,7 @@ body {
 .view-link_start:hover {
    color: #fff;
    opacity: 0.75;
+   transition: ease-in 0.4s;
 }
 
 
@@ -228,6 +229,7 @@ span {
 .footer_link:hover {
    color: #fff;
    opacity: 0.75;
+   transition: ease-in 0.6s;
 }
 
 
