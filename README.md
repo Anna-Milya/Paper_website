@@ -1,6 +1,5 @@
-# Paper_website
-## Paper_website_layout using free Figma template:
-[Paper_website](anna-milya.github.io/Paper_website/)
+# Paper_website (free Figma template)
+###[Paper_website](anna-milya.github.io/Paper_website/)
 - BEM; 
 - flexbox;
 - responsive (no mobile or any other layouts were included initially);
