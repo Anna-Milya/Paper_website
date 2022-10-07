@@ -1,4 +1,4 @@
-## Paper_website (free Figma template)
+## Paper_website (Figma template)
 [Paper_website](anna-milya.github.io/Paper_website/)
 - BEM; 
 - flexbox;
